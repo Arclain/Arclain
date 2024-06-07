@@ -8,29 +8,31 @@
 
 - Professional statement
   
-        1, my Strengths:
+   1, my Strengths:
         
-        Quick learner
+   Quick learner
         Learning Cybersecurity
         Unreal Engine development
         
-        2, my Values:
+   2, my Values:
         
-        Justice
-        Abnegation
-        Balance
+     - Justice
+     - Abnegation
+     - Balance
         
-        3, How to reach my goals:
+   3, How to reach my goals:
         
-        Interest in Cybersecurity:
+     Interest in Cybersecurity:
         		- Challenge
         		- Investigation 
         
-        My add to the cybersecurity domain:
+     My add to the cybersecurity domain:
         	- My former skills as my determination and my capacity to learn new thing over and over, my research of knowledge is a real valuable asset to me.
         
         
-        As a dedicated and driven individual, I am passionate about advancing my career in the cybersecurity domain. My professional journey is anchored in three key areas: strengths, values,           and how to reach my goals, each contributing to my overall growth and commitment to the field.
+  As a dedicated and driven individual, I am passionate about advancing my career in the cybersecurity domain.
+  My professional journey is anchored in three key areas: strengths, values,
+  and how to reach my goals, each contributing to my overall growth and commitment to the field.
 
 
 - 📫 How to reach me
