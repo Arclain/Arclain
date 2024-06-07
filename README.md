@@ -23,11 +23,14 @@
    3, How to reach my goals:
         
      Interest in Cybersecurity:
-        		- Challenge
-        		- Investigation 
+  
+    - Challenge
+    - Investigation 
         
      My add to the cybersecurity domain:
-        	- My former skills as my determination and my capacity to learn new thing over and over, my research of knowledge is a real valuable asset to me.
+  
+    - My former skills as my determination and my capacity to learn new
+      thing over and over, my research of knowledge is a real valuable asset to me.
         
         
   As a dedicated and driven individual, I am passionate about advancing my career in the cybersecurity domain.
